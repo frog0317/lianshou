@@ -1,2 +1,3 @@
 hello git
 gti world
+别名:练手
